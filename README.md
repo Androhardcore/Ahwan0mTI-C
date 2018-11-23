@@ -1,8 +1,7 @@
-<b>Nama  : Ahwanul Mubin
-</b>
-Kls   : Teknik informatika-C
-Prodi : Teknik informatika
-Makul : Pemrograman Mobile
+<h1>Nama  : Tugas Pemerograman Mobil</h1>
+<h2>Kls   : Teknik informatika-C</h2>
+<h3>Prodi : Teknik informatika</h3>
+<h4>Makul : Pemrograman Mobile</h4>
 
 
 
@@ -14,4 +13,4 @@ Makul : Pemrograman Mobile
 
 
 get more source in https://www.ahwan0m.site/
-Thank You..
+ >< Thank You..
